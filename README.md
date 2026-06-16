@@ -7,6 +7,7 @@ Disciplina de Inteligência Artificial , Professor Munif , Unicesumar 2026
 ## Integrantes
 
 Luigi Biagio Antonioli RA: 23329385-2
+
 Francisco Guilherme Soares dos Santos - RA: 23389027-2
 
 ---
